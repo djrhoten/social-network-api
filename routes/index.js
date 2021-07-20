@@ -48,10 +48,6 @@ router.post('/api/thoughts/:id/reactions', addReaction);
 router.delete('/api/thoughts/:id/reactions', deleteReaction);
 
 
-
-
-
-
 router.use((req, res) => {
     res.status(404).send('<h1>404 Error!</h1>');
 })
