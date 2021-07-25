@@ -5,6 +5,9 @@
 
 A social media app built with Express, Mongoose, and MongoDB.
 
+## Walkthrough
+![Walkthrough](assets/socialmedia-api-walkthrough.gif)
+
 ## Usage
 1. Clone the repo
 2. Install dependencies with `npm -i`
